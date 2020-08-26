@@ -1,0 +1,5 @@
+Contactor message:
+{{ contactor.username }}
+{{ contactor.email }}
+{{ contactor.phonenumber }}
+{{ contactor.message }}
